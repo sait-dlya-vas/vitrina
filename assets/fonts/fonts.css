@@ -1,0 +1,15 @@
+/* Original variable fonts, SIL OFL 1.1. Licenses are in assets/fonts/. */
+@font-face {
+  font-family: "Unbounded";
+  font-style: normal;
+  font-weight: 500 700;
+  font-display: swap;
+  src: url("./Unbounded-variable.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Golos Text";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("./GolosText-variable.ttf") format("truetype");
+}
