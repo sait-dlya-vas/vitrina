@@ -1,1 +1,5 @@
 :root{color-scheme:light}
+@media (max-width: 420px) {
+  .fan .phone:nth-child(2) { transform: translate(-96%, -42%) rotate(-7deg); }
+  .fan .phone:nth-child(3) { transform: translate(-9%, -40%) rotate(7deg); }
+}
